@@ -1,1 +1,2 @@
 # AI-Auto-Chatbot
+I'm excited to share my latest project: an AI auto-chatbot designed to automate WhatsApp conversations. This project leverages pyautogui for UI interaction and Google's Gemini API to create natural, conversational responses. The code demonstrates how to read messages, generate replies, and send them automatically. Let me know what you think! #ai #chatbot #automation #python #gemini #whatsapp
