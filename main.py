@@ -4,7 +4,7 @@ import pyperclip
 import google.generativeai as genai
 
 
-googleapi = "AIzaSyCyBNWOE89rUh7a8CiHu_lKCV6TMIGbfzQ"  # Your Google Generative AI API key
+googleapi = "<your key>"  # Your Google Generative AI API key
 
 
 def is_last_message_from_sender(chat_log, sender_name="Bank"):
